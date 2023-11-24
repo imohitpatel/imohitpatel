@@ -25,4 +25,6 @@ Mohit
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imohitpatel&show_icons=true&locale=en&layout=compact" alt="imohitpatel" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imohitpatel&show_icons=true&locale=en" alt="imohitpatel" /></p>
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mohit-githuber&bg_color=000000&color=3bcbff&line=ff665e&point=c6f754&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<p>&nbsp;<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=mohit-githuber&bg_color=000000&color=3bcbff&line=ff665e&point=c6f754&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)" alt="imohitpatel" /></p>
+
