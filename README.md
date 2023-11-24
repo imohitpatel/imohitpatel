@@ -6,7 +6,7 @@ Mohit
   <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 <a href="https://www.instagram.com/thepiyushmalhotra/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+  <img height="50" src="https://images.app.goo.gl/w1ncAMd9QDxJFGPf9"/>
 </a>
 <h1 align="center">Hi 👋, I'm Mo</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
