@@ -5,7 +5,7 @@ Mohit
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
-<a href="https://www.instagram.com/thepiyushmalhotra/">
+<a href="https://www.github.com/mohit-githuber">
   <img height="50" src="https://images.app.goo.gl/w1ncAMd9QDxJFGPf9"/>
 </a>
 <h1 align="center">Hi 👋, I'm Mo</h1>
