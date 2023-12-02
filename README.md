@@ -13,6 +13,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,gcp,azure,react,css,html,js,vue,visualstudio,bots,matlab,mysql,github,ai,discord,flutter&perline=3" />
+    <img src="https://skillicons.dev/icons?i=aws,gcp,azure,react,css,html,js,vue,visualstudio,bots,matlab,mysql,github,ai,discord,flutter&perline=8" />
   </a>
 </p>
+![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=good%20to%20see%20yah.&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4
