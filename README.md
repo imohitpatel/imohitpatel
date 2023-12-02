@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hello%20I%10am%10Mohit &fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hello%20I%10am%10Mohit&fontSize=90" />
 
 <p align="center">
     <!--     You can add your logo in the _src_ below -->
