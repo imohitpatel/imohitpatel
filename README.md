@@ -1,5 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Hello%20Namste&fontSize=90" />
-## Rounded <a id="rounded">
+
+## My Readme <a id="Readme">
 
 ![rounded](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&text=Rounded%20with%20stroke&fontAlignY=50&fontSize=40&height=200&stroke=000000&strokeWidth=2)
 
