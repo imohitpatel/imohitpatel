@@ -8,8 +8,8 @@
     <img src="https://www.amug.com/wp-content/uploads/2016/09/you-logo-here-300x106.png" />
 <p align="center">
 
-    <a href="https://github.com/lacolaco/contributors-img/graphs/contributors">
-  <img src="https://stg.contrib.rocks/image?repo=lacolaco/contributors-img" />
+    
+  <img src="" />
 </a>
 
 <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
