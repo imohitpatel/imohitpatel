@@ -1,7 +1,7 @@
 
 ## My Readme <a id="Readme">
 
-![rounded](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&text=Rounded%20with%20stroke&fontAlignY=50&fontSize=40&height=200&stroke=000000&strokeWidth=2)
+![rounded](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&text=Padharo%20sa%20mahre%20Profile&fontAlignY=50&fontSize=40&height=200&stroke=000000&strokeWidth=2)
 
 <p align="center">
     <!--     You can add your logo in the _src_ below -->
@@ -15,14 +15,15 @@
 <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
  <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
  <a href="https://imohitpatel.github.io/Portfilo/"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=Devhood&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
-<h3>Early Teen do act as legend but</h3>
-<h3>half way to be a pro</h3>
-Technical way to communicate by
+<h5 align="center">Early Teen do act as legend but<br>half way to be a pro</h5>
 
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,python,matlab,flask,aws,gcp,azure,react,bots,mysql,ai,flutter&perline=17" />
+<h3>Technical way to communicate by</h3>
+
+
+<p align="center">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=html,css,js,python,c,matlab,flask,django,react,mysql,gcp,aws,azure,bots,ai&perline=17" />
   </a>
 </p>
 <p align="center">
