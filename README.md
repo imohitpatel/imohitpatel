@@ -9,10 +9,10 @@
 
 
   
- Always looking
+<h3 align="right">Always looking
                to Develop
                     from imagination 
-                             a bit from others work
+                             a bit from others work</h3>
                              
   <img src="" alt="random"/><br>
 
