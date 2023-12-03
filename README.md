@@ -24,5 +24,5 @@
 
 <p align="center">
 💙 If you like my projects, Give them ⭐ and Share it with friends!
-<h1 align='center'>⚡️<i>Just!</i>⚡️</h1>
+<h1 align='center'>⚡️<i>Just Rock!</i>⚡️</h1>
 <p align="center">*meanwhile</p>
