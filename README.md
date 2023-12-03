@@ -14,7 +14,7 @@
 
 <img align="right" src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif" alt="random"/><br>
   
-<h3 align="left">Always looking 👨🏻‍💻to Develop from 🌌imagination <br> a bit from others work</h3> 
+<h3 align="left">Always looking 👨🏻‍💻to Develop from 🌌imagination a bit from others work</h3> 
 
 <br>
 <br>
