@@ -23,6 +23,6 @@
 </p>
 
 <p align="center">
-💙 If you like my projects, Give them ⭐ and Share it with friends!
+If 💙 , Good to express as ⭐ and Share it with fellow Developer!
 <h1 align='center'>⚡️<i>Just Rock!</i>⚡️</h1>
 <p align="center">*meanwhile</p>
