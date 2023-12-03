@@ -8,8 +8,8 @@
     <img src="https://www.amug.com/wp-content/uploads/2016/09/you-logo-here-300x106.png" />
 <p align="center">
 
-    Always looking 
-              to Develop
+   Always looking
+               to Develop
                     from imagination 
                              a bit from others work
   <img src="" alt="random"/><br>
