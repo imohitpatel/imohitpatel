@@ -9,7 +9,8 @@
 
 
   
-<h3 align="center">Always looking<br>👨🏻‍💻to Develop<br>from 🌌imagination <br> a bit from others work</h3>
+<h3 align="center">Always looking<br>👨🏻‍💻to Develop<br>from 🌌imagination <br> a bit from others work</h3> 
+
                              
 <img src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif" alt="random"/><br>
 
@@ -17,7 +18,7 @@
 <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
  <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
  <a href="https://imohitpatel.github.io/Portfilo/"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=Devhood&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
-<h4 align="center">Early Teen Do Act🎭 as Legend🤹‍♂️ but<br>Half Way🤾‍♂️ to be a Pro🎯</h4>
+<h4 align="center">Early Teen Do Act🎭 as Legend<img src="https://media.tenor.com/i3lImBg2UEQAAAAM/scaler-create-impact.gif" height=30/> but<br>Half Way🤾‍♂️ to be a Pro<img src="https://media.tenor.com/WkgpyPpxpDUAAAAM/work-internet.gif" height=30/></h4>
 
 
 <h3>Technical way to communicate by</h3>
