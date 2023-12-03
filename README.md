@@ -1,8 +1,7 @@
 
-## My Readme <a id="Readme">
 
-![rounded](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&text=Padharo%20🙏🏻%20sa%20mahre%20Profile&fontAlignY=50&fontSize=40&height=200&stroke=000000&strokeWidth=2)
-
+![Waving](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&text=Namaste(Hello)%20I'%20m%20Mohit&fontAlignY=50&fontSize=40&height=200&stroke=000000&strokeWidth=2)
+<img align="center" src="https://media.tenor.com/GWpqpbWjx0gAAAAM/namasthe-namaskaram.gif" height="150"/>
 <p align="center">
     <!--     You can add your logo in the _src_ below -->
     <img src="https://www.amug.com/wp-content/uploads/2016/09/you-logo-here-300x106.png" />
