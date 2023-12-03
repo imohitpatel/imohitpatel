@@ -1,7 +1,7 @@
 
 ## My Readme <a id="Readme">
 
-![rounded](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&text=Padharo%20sa%20mahre%20Profile&fontAlignY=50&fontSize=40&height=200&stroke=000000&strokeWidth=2)
+![rounded](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&text=Padharo%20🙏🏻%20sa%20mahre%20Profile&fontAlignY=50&fontSize=40&height=200&stroke=000000&strokeWidth=2)
 
 <p align="center">
     <!--     You can add your logo in the _src_ below -->
