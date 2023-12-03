@@ -22,3 +22,6 @@
   </a>
 </p>
 
+<p align="center">
+💙 If you like my projects, Give them ⭐ and Share it with friends!
+<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
