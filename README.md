@@ -21,7 +21,7 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,python,matlab,flask,aws,gcp,azure,react,visualstudio,bots,matlab,mysql,github,ai,discord,flutter&perline=8" />
   </a>
     <a>
-        <img src="https://skillicons.dev/icons?i=html,css,js,python,matlab,flask,aws,gcp,azure,react,visualstudio,bots,matlab,mysql,github,ai,discord,flutter&perline=8" />
+        <img src="https://skillicons.dev/icons?i=visualstudio,replit,discord,slack,outlook&perline=8" />
     </a>
 </p>
 
