@@ -23,7 +23,7 @@
 </p>
 <p align="center">
     <a>
-        <img src="https://skillicons.dev/icons?i=visualstudio,replit,discord,jupyternotebook&perline=3" />
+        <img src="https://skillicons.dev/icons?i=visualstudio,replit,discord,github&perline=3" />
     </a>
 </p>
 
