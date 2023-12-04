@@ -27,7 +27,7 @@ Early Teen Do Act🎭 as Legend   <img src="https://media.tenor.com/i3lImBg2UEQA
 
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=html,css,js,python,c,matlab,flask,django,react,mysql,gcp,aws,azure,bots,ai&perline=17" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,python,c,matlab,flask,django,react,mysql,gcp,aws,bots,ai&perline=17" />
   </a>
 </p>
 <p align="center">
