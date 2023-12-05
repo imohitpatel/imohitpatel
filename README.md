@@ -21,7 +21,7 @@
 <p align="center">
 Do Act🎭 as Legend   <img src="https://media.tenor.com/i3lImBg2UEQAAAAM/scaler-create-impact.gif" height=30/> but<br>Half Way   <img src="https://media.tenor.com/hTLCQM7NwywAAAAM/halfway-there-halfway.gif" height="30"/>to be a Pro  <img src="https://media.tenor.com/WkgpyPpxpDUAAAAM/work-internet.gif" height=30/>
 
-
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 <h3>Technical way to communicate by</h3>
 
 
