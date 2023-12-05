@@ -1,11 +1,11 @@
 
 
 ![Waving](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&text=Namaste(Hello)%20I'%20m%20Mohit&fontAlignY=50&fontSize=40&height=200&stroke=000000&strokeWidth=2)
-<img align="center" src="https://media.tenor.com/GWpqpbWjx0gAAAAM/namasthe-namaskaram.gif" height="150"/>
+
 <p align="center">
     <!--     You can add your logo in the _src_ below -->
-    <img src="https://www.amug.com/wp-content/uploads/2016/09/you-logo-here-300x106.png" />
-    <p align="center">
+    ![alt text](https://github.com/imohitpatel/assets/blob/main/image.jpg?raw=true)
+        <p align="center">
 <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
  <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
  <a href="https://imohitpatel.github.io/Portfilo/"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=Devhood&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
