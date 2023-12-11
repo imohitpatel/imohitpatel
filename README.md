@@ -15,12 +15,10 @@
 
 <img align="right" src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif" alt="random"/><br>
   
-<h3 align="left">Always looking 👨🏻‍💻to Develop from 🌌imagination <br>a bit from others work</h3> 
+<h3 align="center">Always looking 👨🏻‍💻to Develop from 🌌imagination <br>a bit from others work</h3> 
 
 <br>
-<br>
-<p align="center">
-Do Act🎭 as Legend   <img src="https://media.tenor.com/i3lImBg2UEQAAAAM/scaler-create-impact.gif" height=30/> but<br>Half Way   <img src="https://media.tenor.com/hTLCQM7NwywAAAAM/halfway-there-halfway.gif" height="30"/>to be a Pro  <img src="https://media.tenor.com/WkgpyPpxpDUAAAAM/work-internet.gif" height=30/>
+
 
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 <h3>Technical way to communicate by</h3>
