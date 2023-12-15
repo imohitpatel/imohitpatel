@@ -2,10 +2,11 @@
 
 ![Waving](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&text=Namaste(Hello)%20I'%20m%20Mohit&fontAlignY=50&fontSize=40&height=200&stroke=000000&strokeWidth=2)
 
-<p align="center">
+<p align="left">
     <!--     You can add your logo in the _src_ below -->
-    <img src="https://github.com/imohitpatel/website/assets/145916003/13c98208-d6d7-412f-a646-5439c328689a"/>
-
+    <img height="250px" src="https://github.com/imohitpatel/website/assets/145916003/13c98208-d6d7-412f-a646-5439c328689a"/>
+    <h3 align="right">Always looking 👨🏻‍💻to Develop from 🌌imagination <br>a bit from others work</h3> 
+</p>
 <p align="center">
  <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
  <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
@@ -15,7 +16,7 @@
 
 <img align="right" src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif" alt="random"/><br>
   
-<h3 align="center">Always looking 👨🏻‍💻to Develop from 🌌imagination <br>a bit from others work</h3> 
+
 
 <br>
 
