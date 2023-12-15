@@ -3,10 +3,11 @@
 ![Waving](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&text=Namaste(Hello)%20I'%20m%20Mohit&fontAlignY=50&fontSize=40&height=200&stroke=00&strokeWidth=2)
 
 <!-- real time -->
-<a href="https://moon-svg.minung.dev">
-  <img src="https://moon-svg.minung.dev/moon.svg?size=200&theme=ray&rotate=0" alt="moon.svg" />
-</a>
-
+<p align="left">
+   <a href="https://moon-svg.minung.dev">
+      <img src="https://moon-svg.minung.dev/moon.svg?size=200&theme=ray&rotate=0" alt="moon.svg" />
+  </a>
+</p>
 
 <p align="right">
     <!-- You can add your logo in the _src_ below -->
