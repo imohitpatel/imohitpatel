@@ -4,7 +4,7 @@
 
 
 <a  href="https://moon-svg.minung.dev">
-<img algin="left" src="https://moon-svg.minung.dev/moon.svg?size=200&theme=ray&rotate=0" alt="moon.svg"></a>
+<img algin="right" src="https://moon-svg.minung.dev/moon.svg?size=200&theme=ray&rotate=0" alt="moon.svg"></a>
 
 <p align="left">
     <!--     You can add your logo in the _src_ below -->
