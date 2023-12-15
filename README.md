@@ -9,7 +9,7 @@
   </a>
 </p>
 
-<p align="right">
+<p align="left">
     <!-- You can add your logo in the _src_ below -->
     <img height="250px" src="https://github.com/imohitpatel/website/assets/145916003/13c98208-d6d7-412f-a646-5439c328689a"/>
     <h3 align="right">Always looking 👨🏻‍💻to Develop from 🌌imagination <br>a bit from others work</h3> 
