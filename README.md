@@ -4,8 +4,7 @@
 
 <p align="center">
     <!--     You can add your logo in the _src_ below -->
-    <img src="![image](https://github.com/imohitpatel/imohitpatel/assets/145916003/ff0c340d-1aa5-4795-8444-f25dfbe3fb3d)
-"/>
+    <img src="https://github.com/imohitpatel/website/assets/145916003/13c98208-d6d7-412f-a646-5439c328689a"/>
 
 <p align="center">
  <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
