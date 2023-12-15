@@ -3,13 +3,13 @@
 ![Waving](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&text=Namaste(Hello)%20I'%20m%20Mohit&fontAlignY=50&fontSize=40&height=200&stroke=00&strokeWidth=2)
 
 <!-- real time -->
-<a algin="center" href="https://moon-svg.minung.dev">
+<a href="https://moon-svg.minung.dev">
   <img src="https://moon-svg.minung.dev/moon.svg?size=200&theme=ray&rotate=0" alt="moon.svg" />
 </a>
 
 
 <p align="right">
-    <!--     You can add your logo in the _src_ below -->
+    <!-- You can add your logo in the _src_ below -->
     <img height="250px" src="https://github.com/imohitpatel/website/assets/145916003/13c98208-d6d7-412f-a646-5439c328689a"/>
     <h3 align="right">Always looking 👨🏻‍💻to Develop from 🌌imagination <br>a bit from others work</h3> 
 </p>
