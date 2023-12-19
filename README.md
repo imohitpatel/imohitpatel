@@ -31,7 +31,9 @@
 
 ---
 <h3>Technical way to communicate by</h3>
+
 ###
+
 <p align="center">
   <a href="#">
     <img src="https://skillicons.dev/icons?i=html,css,js,python,c,matlab,flask,django,react,mysql,gcp,aws,bots,ai&perline=17" />
