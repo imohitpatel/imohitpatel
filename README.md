@@ -26,10 +26,10 @@ Your README will now be visible on the main page of your repository! -->
 <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=1200&height=50&lines=नमस्ते%2Cमैं+मोहित+हूं%2Cमेरी+रूपरेखा+में+आपका+स्वागत+है;ओ+वोस+पसंद+आए+तो🌟+देना+सामझऎ;Hello%2C+I'm+Mohit+Welcome+to+my+Profile;Bonjour%2Cje+m'appelle+Mohit+Bienvenue+sur+mon+profil;Hallo%2Cich+bin+Mohit.+Willkommen+auf+meinem+Profil;こんにちは、+私はモヒットです+私のプロフィールへようこそ!;안녕하세요.+저는+모히트입니다.+내+프로필에+오신+것을+환영합니다.;नमस्कार+अहं+मोहितः+मम+प्रोफाइले+स्वागतम्;नमस्कार%2Cमी+मोहित+आहे%2Cमाझ्या+प्रोफाइलमध्ये+स्वागत+आहे;હેલો%2Cહું+મોહિત+છું+મારી+પ્રોફાઇલમાં+આપનું+સ્વાગત+છે;" align="middle" alt=", I'm Mohit Welcome to my Profile! animated typed out">
 
 <!--blue striking border-->
-<img  src="assests/borderseperator.gif">
+<img  src="assets/borderseperator.gif">
 
 <!--hero banner -->
-<img  width="1080px" src="assests/moh.png">
+<img  width="1080px" src="assets/moh.png">
 
 <!-- Social Media link with icons-->
 <p align="center"><!--youtube-->
@@ -64,7 +64,7 @@ Your README will now be visible on the main page of your repository! -->
 <h2></h2><br><!-- for light divider line-->
 <!--night time gif -->
 <p align="center"> 
-  <img src="assests/nightlife.gif" height="300px" width="900px" alt="Lofi Nightlight scene" /> 
+  <img src="assets/nightlife.gif" height="300px" width="900px" alt="Lofi Nightlight scene" /> 
 </p>
 <!--changing text-->
 <div align="center">
@@ -76,7 +76,7 @@ Your README will now be visible on the main page of your repository! -->
 <h3 align="left">🔥 My Stats :</h3>
 
 <h2></h2><br><!-- for light divider line-->
-<img align="left" width="50%" src="assests/gitcat.gif"/>
+<img align="left" width="50%" src="assets/gitcat.gif"/>
 
   <a href="https://github.com/imohitpatel"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=imohitpatel&theme=radical&title_color=ff3068?"></a>
   <a href="https://github.com/imohitpatel"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=imohitpatel&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
