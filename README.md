@@ -1,7 +1,9 @@
 
 
 ![Waving](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&text=Namaste(Hello)%20I'%20m%20Mohit&fontAlignY=50&fontSize=40&height=200&stroke=00&strokeWidth=2)
-
+<div align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Mohit;He/his;Always+Looking;to+Develop+From;Imagination:3;A+Bit+From+Inspiration+%3C3" alt="Always looking 👨🏻‍💻to Develop from 🌌imagination"></a>
+</div>
 <!-- real time -->
 <p align="right">
    <a href="https://moon-svg.minung.dev">
