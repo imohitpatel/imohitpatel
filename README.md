@@ -57,10 +57,7 @@
 <code><img title="GIMP" alt="GNU Image Manipulation Program - GIMP" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" /></code>
 <code><img title="Linux" alt="linux" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></code>
 </br></br>
-<details>
-<summary>Click here for a cute surprise! :3</summary>
-<img src="https://cat-gifs.cyclic.app">
-</details>
+
 ---
 
 ## 🏆 GitHub Trophies
@@ -68,12 +65,14 @@
 
 ###
 ---
-<h3 align="left">🔥   My Stats :</h3>
+<details>
+<summary>
+<h3 align="left">🔥   My Stats :</h3></summary>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=imohitpatel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imohitpatel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-
+</details>
 ###
 
 <div align="center">
