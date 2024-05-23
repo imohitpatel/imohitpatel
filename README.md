@@ -73,7 +73,7 @@ Your README will now be visible on the main page of your repository! -->
 
 ###
 <!--My stats-->
-<h3 align="left">🔥 My Stats :</h3>
+<h3 align="left">🔥 My Stats <img height="80px" src="https://github.com/imohitpatel/imohitpatel/assets/145916003/7e08d89c-b03c-47ca-8c08-5da6b9e52f7f"/></h3>
 
 <h2></h2><br><!-- for light divider line-->
 <img align="left" width="50%" src="assets/gitcat.gif"/>
