@@ -72,8 +72,20 @@ Your README will now be visible on the main page of your repository! -->
 </div>
 
 ###
+<!--badges-->
+<h3 align="left">🏆Achievement badges</h3>
+<img height="80px" src="https://github.com/imohitpatel/imohitpatel/assets/145916003/19fd4b46-f9fd-42a1-8baa-47cf641f12a4"/>
+<img height="80px" src="https://github.com/imohitpatel/imohitpatel/assets/145916003/a524bc10-e944-423c-b449-676567a06211"/>
+<img height="80px" src="https://github.com/imohitpatel/imohitpatel/assets/145916003/a7695b08-6980-455e-87d4-72d1f4778f18"/>
+<img height="80px" src="https://github.com/imohitpatel/imohitpatel/assets/145916003/f2a382b3-0b65-4ffe-b71e-a0b5568d2259"/>
+<img height="80px" src="https://github.com/imohitpatel/imohitpatel/assets/145916003/fdf12860-0324-4de8-a6e9-7344412ff8e8"/>
+<img height="90px" src="https://github.com/imohitpatel/imohitpatel/assets/145916003/eb58b17f-ad48-4f5f-8f64-af033cf6ecf8"/>
+
+
+
+###
 <!--My stats-->
-<h3 align="left">🔥 My Stats <img height="80px" src="https://github.com/imohitpatel/imohitpatel/assets/145916003/7e08d89c-b03c-47ca-8c08-5da6b9e52f7f"/></h3>
+<h3 align="left">🔥 My Stats</h3>
 
 <h2></h2><br><!-- for light divider line-->
 <img align="left" width="50%" src="assets/gitcat.gif"/>
